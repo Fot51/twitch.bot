@@ -14,3 +14,6 @@ Audio Perception: It listens to the audio feed to catch context that might be mi
 Social Context: It reads the chat to stay in sync with the community's reaction.
 
 By combining these senses using local Neural Networks (via Ollama) and Python, the bot generates relevant, context-aware comments and interacts with the streamer naturally, without any manual input.
+
+If you are interested in my project or want to know the details, 
+please contact: vnaboka538@gmail.com
